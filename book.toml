@@ -1,0 +1,6 @@
+[book]
+authors = ["Muhammad Saqib Hussain"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Practical Approach to Neurosurgery"
