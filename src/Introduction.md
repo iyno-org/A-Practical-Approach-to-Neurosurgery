@@ -1,4 +1,6 @@
 # Introduction
+#### This book is a work in progress. Even after the content writing is finished, major content refactoring will be requried. Any contributions are welcome.
+
 ### Why I started writing this book?
 A lot of neurosurgical books are intended for Neurosurgical professionals. Many books of Neurosurgery (and medicine in general) appear more as newspapers rather than as books.
 
